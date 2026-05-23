@@ -13,7 +13,7 @@ Note: tkinter is used for native file dialog popups and comes pre-installed with
 
 ## 📊 Sample CLI Output Demonstration
 
-```text
+
 Image: C:/Users/Project/floor_plan.png
 T-Junctions Detected: 14
 Total Centerline Length: 45210.12 mm
