@@ -1,4 +1,6 @@
 Floor Plan Material Estimator & Cost Calculator
+
+
 An automated Python tool that processes structural floor plan images to estimate required construction materials (cement, sand, aggregates, bricks, steel, paint) and calculate total material costs based on user-selected brands.
 
 The project integrates deep learning via YOLO for structural layout analysis, OpenCV and scikit-image for mathematical morphology (skeletonization) to measure centerline length, and EasyOCR to extract dimensional text from drawings.
